@@ -12,3 +12,7 @@ Display Output: The generated VGA signal was sent to a monitor via a VGA cable. 
 
 By combining the functionality of the Basys 3 FPGA board and the VGA interface, the project successfully demonstrated the display of all possible RGB values on a monitor, controlled through simple switch inputs.
 
+
+
+"mavi.jpg" is an example output.
+
